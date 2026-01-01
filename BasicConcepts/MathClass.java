@@ -17,7 +17,5 @@ public class MathClass{
     
     System.out.println(Math.random());
 
-
-
   }
 }
